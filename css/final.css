@@ -306,6 +306,21 @@ section {
           justify-content: space-between;
 }
 
+.achievement-wrapper{
+display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+          margin-top: 20px;
+}
+
 .case-study-item {
   max-width: 300px;
   margin-top: 45px;
