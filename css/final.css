@@ -318,7 +318,7 @@ display: -webkit-box;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-          margin-top: 20px;
+          margin-top: 50px;
 }
 
 .case-study-item {
