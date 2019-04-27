@@ -35,6 +35,8 @@ footer {
   border-bottom: 1px solid #F0F0F0;
 }
 
+.list-group{width:100%;}
+
 .main-navigation {
   z-index: 999;
   width: 100%;
